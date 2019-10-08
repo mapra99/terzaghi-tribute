@@ -44,7 +44,6 @@
     width: 100%;
     text-align: center;
     padding: 0.3em 0;
-    font-size: 1.2em;
 }
 
 #title{
@@ -59,4 +58,24 @@
     font-weight: 700;
     margin: 0;
     padding: 0;
+}
+
+#gen-info-cont{
+    margin: 1%;
+    display: flex;
+    align-items: center;
+    background-color: rgb(232, 232, 232);
+    padding: 20px;
+}
+
+#text-info{
+    width: 70%;
+}
+
+.side-fig{
+    width: 30%;
+}
+
+.side-fig img{
+    width: 100%;
 }
