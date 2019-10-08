@@ -2,11 +2,14 @@
     padding: 0;
     margin: 0;
     font-family: 'Muli', sans-serif;
+    background-color: rgb(220, 220, 220);
 }
 
 #main-cont{
     display: flex;
     align-items: center;
+    margin: 0 1%;
+    background-color: rgb(232, 232, 232);
 }
 
 #title-cont{
