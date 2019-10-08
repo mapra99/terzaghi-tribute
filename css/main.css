@@ -132,4 +132,18 @@
         margin: 0;
         padding: 0;
     }
+
+    #gen-info-cont{
+        flex-direction: column;
+    }
+
+    #text-info{
+        width: 100%;
+        max-width: 850px;
+    }
+    
+    .side-fig{
+        width: 100%;
+        max-width: 550px;
+    }
 }
