@@ -1,6 +1,7 @@
 #main{
     padding: 0;
     margin: 0;
+    font-family: 'Muli', sans-serif;
 }
 
 #main-cont{
@@ -13,7 +14,7 @@
 }
 
 #img-div{
-    width: 80%;
+    width: 70%;
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -24,7 +25,23 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin: 0;
 }
+
 #image{
     height: 95%;
+}
+
+#title{
+    font-size: 5em;
+    font-weight: 900;
+    margin-top: 0;
+    margin-bottom: 0.5em;
+}
+
+#subtitle{
+    font-size: 2.5em;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
 }
